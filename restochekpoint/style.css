@@ -1,0 +1,84 @@
+header{
+    background-image: url(https://wallpapers.com/images/hd/food-photography-background-kepimuxrxth4bjjw.jpg);
+    margin-top: 300px;
+    background-size: cover;
+    color: white;
+    text-size-adjust: 20px;
+
+}
+span{
+    color: red;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-size: cover;
+}
+div .card{
+    background-color: rgba(128, 128, 128, 0.829);
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.navbar-nav .nav-link:hover{
+    background-color: grey;
+    
+}
+#contact {
+    padding: 50px;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  #contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #contact label {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  #contact input[type="text"],
+  #contact input[type="email"],
+  #contact textarea {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  #contact input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #contact input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  #contact{
+    background-color: rgba(128, 128, 128, 0.24);
+  }
+  
